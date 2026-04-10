@@ -1,10 +1,10 @@
 import csv
 from datetime import datetime
 iva=0.19
-open("productos.csv", "a").close()
-open("clientes.csv", "a").close()
-open("mesas.csv", "a").close()
-open("facturas.csv", "a").close()
+open("productos.csv", "a")
+open("clientes.csv", "a")
+open("mesas.csv", "a")
+open("facturas.csv", "a")
 
 # ===== PRODUCTOS =====
 def menu_productos():
