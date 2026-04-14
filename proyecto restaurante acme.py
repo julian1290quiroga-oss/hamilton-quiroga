@@ -40,6 +40,8 @@ def menu_productos():
 
         elif op == "3":
             break
+        if producto < 0
+            print("no valido, numero negativo")            
 
 
 # ===== MESAS =====
